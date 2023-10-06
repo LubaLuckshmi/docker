@@ -63,5 +63,9 @@ $ docker-compose up -d
 
 Прилагаю скриншоты:
 
+<img width="1435" alt="Снимок экрана 2023-10-06 в 11 42 33" src="https://github.com/LubaLuckshmi/docker/assets/120129430/8ee3d703-151d-4776-889d-07f48eafb3f4">
+<img width="1439" alt="Снимок экрана 2023-10-06 в 11 44 45" src="https://github.com/LubaLuckshmi/docker/assets/120129430/e3254933-532f-4bda-bfad-c27ad3096522">
+<img width="1440" alt="Снимок экрана 2023-10-06 в 11 47 24" src="https://github.com/LubaLuckshmi/docker/assets/120129430/6caa0ad1-f9d3-4aad-b5dc-3bc8bbab9e0c">
 
+![VirtualBox_Ubundu-linux_06_10_2023_11_39_50](https://github.com/LubaLuckshmi/docker/assets/120129430/80955d3e-61f3-475a-a0df-e71fb2cd42d2)
 
